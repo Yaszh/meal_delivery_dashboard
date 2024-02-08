@@ -39,9 +39,11 @@ The client wants and end to end report to understand which fulfillment areas are
 #### The Dashboard answers some major questions like
 
 - What is the total number of orders catered by the firm?
+  
 ![image](https://github.com/Yaszh/meal_delivery_dashboard/assets/71252244/28935903-906c-42d5-ab8e-ece360f39e1d)
 
 - What is the revenue earned by the firm?
+  
 ![image](https://github.com/Yaszh/meal_delivery_dashboard/assets/71252244/a421677e-b265-4eba-8241-ab8bead1d952)
 
 - What is the total discounted value
